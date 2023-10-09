@@ -1,13 +1,9 @@
-### Yo! I'm Joseph
+### Hey there! I'm Joseph Mendoza 
 
-<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/mendozajoseph/)">
-  <img align="left" alt="Josephs's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+Welcome to my coding world! I'm a Front End/UI Developer with a knack for creating engaging and efficient web solutions. With a strong foundation in Vue.js, I aim to bridge the gap between beautiful design and functional, user-friendly interfaces. 
 
-Hello there, I'm [Joseph Mendoza](https://josephmendoza.com/), a Front End/UI Developer proficient in Vue.js.
-
-- 💼 any freelance work? feel free to reach out by using the contact form on my [website!](https://josephmendoza.com/#contact)
-<!---
-jmendozatx/jmendozatx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 Discover my [portfolio](https://josephmendoza.com/) to explore my projects and get a taste of what I can bring to your team or project.
+- 🤝 I’m open to freelance opportunities! Feel free to [reach out](https://josephmendoza.com/#contact) if you’re looking for a dedicated developer to bring your project to life.
+- 💬 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/mendozajoseph/) and let's make the web a better place together.
+- 👨‍💻 Peek into my coding adventures on [GitHub](https://github.com/josephmendoza) (You're here!)
+- 📖 I'm always learning and growing. Check out the new skills and projects I'm diving into!
